@@ -10,7 +10,7 @@ Interested in:
 ![Pug](https://img.shields.io/badge/-Pug/Jade-000?&logo=html5&style=flat-square) 
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=webpack&style=flat-square) 
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=babel&style=flat-square) 
-![Sass/Less](https://img.shields.io/badge/-Sass/Less-000?&logo=Sass&style=flat-square) 
+![Less/SCSS](https://img.shields.io/badge/-Sass/Less-000?&logo=Sass&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=flat-square) 
 ![React](https://img.shields.io/badge/-React-000?&logo=react&style=flat-square) 
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux&style=flat-square) 
