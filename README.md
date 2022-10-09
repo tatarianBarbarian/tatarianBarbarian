@@ -1,6 +1,6 @@
 👋 Hi, I’m @tatarianBarbarian
 
-👀 Looking for front-end engineering job
+⚜ Front-end developer
 
 Interested in:
 
