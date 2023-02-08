@@ -1,6 +1,6 @@
 👋 Hi, I’m @tatarianBarbarian
 
-⚜ Front-end developer
+⚜ Software developer
 
 Interested in:
 
