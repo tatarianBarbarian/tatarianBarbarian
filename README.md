@@ -1,6 +1,6 @@
 # Hi, I'm Feliks 👋
 
-**Product Engineer · Fractional CTO · [Notorio Labs](https://notoriolabs.com)**
+**[Notorio Labs](https://notoriolabs.com)**
 
 I build lean MVPs, audit AI-built products, rescue fragile codebases, and help founders make technical decisions before they become expensive.
 
