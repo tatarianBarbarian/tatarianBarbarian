@@ -1,7 +1,5 @@
 # Hi, I'm Feliks 👋
 
-**[Notorio Labs](https://notoriolabs.com)**
-
 I build lean MVPs, audit AI-built products, rescue fragile codebases, and help founders make technical decisions before they become expensive.
 
 > Code got cheaper. Wrong bets didn't.
