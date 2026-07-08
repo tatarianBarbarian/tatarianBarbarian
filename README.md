@@ -6,7 +6,7 @@ I build lean MVPs, audit AI-built products, rescue fragile codebases, and help f
 
 ## Currently
 
-I'm running [Notorio Labs](https://notoriolabs.com), a founder-led product studio for early-stage founders.
+I'm running [Notorio Labs](https://accompo.io), a founder-led product studio for early-stage founders.
 
 I work with founders on:
 
